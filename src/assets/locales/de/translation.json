@@ -55,7 +55,7 @@
   "event.details.action.unslot": "Abmelden",
   "event.details.add": "Feld hinzufügen",
   "event.details.add.default": "Standard \"{0}\" Details hinzufügen",
-  "event.details.creator": "Mission von",
+  "event.details.creator": "Event von",
   "event.details.emptySlot": "Freier Slot",
   "event.details.hiddenEventWarning": "Dieses Event ist für Mitspieler noch nicht im Kalender sichtbar. Wenn das Slotten beginnen kann, gebe das Event über den Editiermodus frei.",
   "event.details.showDescription": "Beschreibung anzeigen",
